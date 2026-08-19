@@ -1,7 +1,6 @@
 ﻿/*
 Inspired by: https://www.youtube.com/watch?v=o3cKQzrtFgQ
 Text animation from: https://github.com/plaaosert/credits_public/blob/main
-Weather data from: https://www.wunderground.com/history/daily/us/ma/boston/KBOS/date/2009-10-22
 Feel free to reach out to us with any questions you may have, we'd be happy to explain! (website in github bio)
 */
 #define SDL_MAIN_HANDLED
