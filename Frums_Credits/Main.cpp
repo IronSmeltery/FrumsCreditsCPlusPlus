@@ -8,7 +8,6 @@ Feel free to reach out to us with any questions you may have, we'd be happy to e
 #pragma warning(disable: 4244 26819)
 #include "SDL.h"
 #pragma warning(pop)
-//#define test_for_debug_removals
 #include "SceneManager.h"
 int main() {
 	return SceneManager::Begin();
