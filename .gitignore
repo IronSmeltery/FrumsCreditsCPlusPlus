@@ -7,5 +7,5 @@
 #/Frums_Credits/Frums_Credits.vcxproj.filters
 /Frums_Credits/Frums_Credits.vcxproj.user
 
-/Frums_Credits/Media
 !/Frums_Credits/Media/README.txt
+/Frums_Credits/Media
